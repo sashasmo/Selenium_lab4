@@ -1,0 +1,13 @@
+{
+  "name": "selenium-automation",
+  "version": "1.0.0",
+  "description": "Automate web testing with Selenium",
+  "dependencies": {
+    "selenium-webdriver": "^4.15.0"
+  },
+  "scripts": {
+    "test": "node src/selenium-test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
